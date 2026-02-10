@@ -15,6 +15,10 @@ Start from the `master` branch, build up the app by following these branches:
   * `04-menu`
   * `05-test`
 
+## Senior Data Analyst Test
+
+See [SENIOR_DATA_ANALYST_TEST.md](SENIOR_DATA_ANALYST_TEST.md) for the written response.
+
 # Pluralsight Course
 
 You can also watch this Pluralsight course for a guided experience:  
